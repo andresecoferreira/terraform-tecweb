@@ -1,4 +1,4 @@
-project_name   = ""
-project_number = 0
+project_name   = "root-rarity-454219-j9"
+project_number = 629988710642
 region         = ""
 
