@@ -1,4 +1,6 @@
-project_name   = "root-rarity-454219-j9"
-project_number = 629988710642
+project_name   = ""
+project_number = 
 region         = ""
-
+db_password    = ""
+github_key = ""
+github_app_id = 0
